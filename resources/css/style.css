@@ -1,0 +1,17 @@
+/*background*/
+* {
+  background-color: black;
+}
+
+/*Title*/
+h1 {
+  font-family: Verdana;
+  font-size: 50px;
+  color: White;
+  text-align: center;
+}
+
+.link {
+  color: Auquamarine;
+  font-size: 16px;
+}
