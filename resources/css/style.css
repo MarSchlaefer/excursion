@@ -1,17 +1,29 @@
 /*background*/
 * {
   background-color: black;
+  font-family: Verdana;
+  text-align: center;
 }
 
 /*Title*/
 h1 {
-  font-family: Verdana;
   font-size: 50px;
   color: White;
-  text-align: center;
 }
 
+/*Body*/
 .link {
-  color: Auquamarine;
+  color: Aquamarine;
   font-size: 16px;
+}
+
+.subheader {
+  font-weight: 300;
+  font-size: 42px
+}
+
+h2 {
+  font-size: 21px;
+  color: Gray;
+  font-weight: normal;
 }
